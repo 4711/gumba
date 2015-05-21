@@ -1,0 +1,7 @@
+name: Gumba
+markdown: redcarpet
+highlighter: false
+
+sass:
+  sass_dir: _sass
+  style:    :compressed

@@ -1,0 +1,55 @@
+---
+c:/work/GitHub/gumba/LICENSE.md:
+  mtime: 2014-12-09 21:04:52.000000000 +01:00
+  deps: []
+c:/work/GitHub/gumba/README.md:
+  mtime: 2014-12-09 21:04:52.000000000 +01:00
+  deps: []
+c:/work/GitHub/gumba/css/vendor/fluidbox.css:
+  mtime: 2014-10-18 18:20:38.000000000 +02:00
+  deps: []
+c:/work/GitHub/gumba/css/vendor/fluidbox.min.css:
+  mtime: 2014-10-04 17:54:48.000000000 +02:00
+  deps: []
+c:/work/GitHub/gumba/img/photo-2.jpg:
+  mtime: 2015-05-20 17:47:28.000000000 +02:00
+  deps: []
+c:/work/GitHub/gumba/img/photo-3.jpg:
+  mtime: 2015-05-20 18:34:26.000000000 +02:00
+  deps: []
+c:/work/GitHub/gumba/img/photo-4.jpg:
+  mtime: 2015-05-21 16:34:06.000000000 +02:00
+  deps: []
+c:/work/GitHub/gumba/img/photo-5.jpg:
+  mtime: 2015-05-20 18:33:25.000000000 +02:00
+  deps: []
+c:/work/GitHub/gumba/img/photo-6.jpg:
+  mtime: 2015-05-20 18:35:15.000000000 +02:00
+  deps: []
+c:/work/GitHub/gumba/img/photo-7.jpg:
+  mtime: 2015-05-20 18:35:47.000000000 +02:00
+  deps: []
+c:/work/GitHub/gumba/img/photo-8.jpg:
+  mtime: 2015-05-21 16:34:06.000000000 +02:00
+  deps: []
+c:/work/GitHub/gumba/img/photo-9.jpg:
+  mtime: 2015-05-20 18:36:47.000000000 +02:00
+  deps: []
+c:/work/GitHub/gumba/index.html:
+  mtime: 2015-05-21 16:34:06.000000000 +02:00
+  deps: []
+c:/work/GitHub/gumba/js/main.js:
+  mtime: 2014-11-26 22:35:34.000000000 +01:00
+  deps: []
+c:/work/GitHub/gumba/js/vendor/jquery.1.11.min.js:
+  mtime: 2014-10-04 17:54:48.000000000 +02:00
+  deps: []
+c:/work/GitHub/gumba/js/vendor/jquery.fluidbox.js:
+  mtime: 2014-10-04 17:54:48.000000000 +02:00
+  deps: []
+c:/work/GitHub/gumba/js/vendor/jquery.fluidbox.min.js:
+  mtime: 2014-10-04 17:54:48.000000000 +02:00
+  deps: []
+c:/work/GitHub/gumba/start.sh:
+  mtime: 2015-05-20 17:36:29.000000000 +02:00
+  deps: []

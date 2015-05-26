@@ -28,6 +28,8 @@ header {
 
 	@include outer-container;
 
+	height: 100vh;
+
 	margin-top: 4em;
 	border-top: $header-border;
 
